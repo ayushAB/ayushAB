@@ -7,10 +7,6 @@
 -  Fun fact: I love to Play games🎮 and Workout💪!!(recently  played It Takes Two)
 -  Play My Game on PlayStore [CrossHit!](https://play.google.com/store/apps/details?id=com.scrapgames.CrossHit)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 <br />
 ### Connect with me:
 
@@ -39,3 +35,5 @@
 
 <br />
 <br />
+
+---
