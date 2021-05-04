@@ -6,10 +6,8 @@
 - 👾 2021 Goals: Create as many games(HyperCasual) as possible!!
 -  Fun fact: I love to Play games🎮 and Workout💪!!(recently  played It Takes Two)
 -  Play My Game on PlayStore [CrossHit!](https://play.google.com/store/apps/details?id=com.scrapgames.CrossHit)
-
 <br />
 ### Connect with me:
-
 [<img align="left" alt="ayush | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ab_f_i_t)
 
 ### Languages and Tools:
