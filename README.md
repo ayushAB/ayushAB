@@ -7,8 +7,6 @@
 -  Fun fact: I love to Play games🎮 and Workout💪!!(recently  played It Takes Two)
 -  Play My Game on PlayStore [CrossHit!](https://play.google.com/store/apps/details?id=com.scrapgames.CrossHit)
 <br />
-### Connect with me:
-[Instagram](https://www.instagram.com/ab_f_i_t)
 
 ### Languages and Tools:
 
