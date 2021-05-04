@@ -1,6 +1,6 @@
 ### Hi there, I'm Ayush - aka Scrappy 👋
 
-## I'm a Developer!!
+## I'm a Software Developer!!
 
 - 🌱 I’m currently learning everything(mostly) 🤣
 - 👾 2021 Goals: Create as many games(HyperCasual) as possible!!
