@@ -34,3 +34,5 @@
 - Laravel 8 + Nuxt
 ### CSS Framework 
 - Tailwind Css
+
+[<img src="https://readme-spotify-status-one.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://www.spotify.com/in-en/account/overview/)
