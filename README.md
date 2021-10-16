@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything(mostly) 🤣
 - 👾 2021 Goals: Create as many games(HyperCasual) as possible!!
--  Fun fact: I love to Play games🎮 and Workout💪!!(recently  played It Takes Two)
+-  Fun fact: I love to Play games🎮 and Workout💪!!
 -  Play My Game on PlayStore [CrossHit!](https://play.google.com/store/apps/details?id=com.scrapgames.CrossHit)
 <br />
 
