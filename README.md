@@ -3,7 +3,7 @@
 ## I'm a Software Developer!!
 
 - 🌱 I’m currently learning everything(mostly) 🤣
-- 👾 2021 Goals: Create as many games(HyperCasual) as possible!!
+- 👾 2021 Goals: Build Projects and learn.
 -  Fun fact: I love to Play games🎮 and Workout💪!!
 -  Play My Game on PlayStore [CrossHit!](https://play.google.com/store/apps/details?id=com.scrapgames.CrossHit)
 <br />
