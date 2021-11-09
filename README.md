@@ -6,6 +6,7 @@
 - 👾 2021 Goals: Build Projects and learn.
 -  Fun fact: I love to Play games🎮 and Workout💪!!
 -  Play My Game on PlayStore [CrossHit!](https://play.google.com/store/apps/details?id=com.scrapgames.CrossHit)
+-  100 Days of Code Challenge [100 Day's](https://github.com/ayushAB/100daysofcode)
 <br />
 
 ### Languages and Tools:
