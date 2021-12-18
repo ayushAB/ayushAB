@@ -1,4 +1,4 @@
-### Hi there, I'm Ayush - aka Scrappy 👋
+### Hi there, I'm Ayush 👋
 
 ## I'm a Software Developer!!
 
