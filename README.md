@@ -1,39 +1,98 @@
-### Hi there, I'm Ayush 👋
+# Hey, I'm Ayush 👋
 
-## I'm a Software Developer!!
+### Full Stack Software Developer | AI Enthusiast | Problem Solver
 
-- 🌱 I’m currently learning everything(mostly) 🤣
-- 👾 2025 Goals: Build Projects.
--  Fun fact: I love to Play games🎮 and Workout💪!!
--  100 Days of Code Challenge [100 Day's](https://github.com/ayushAB/100daysofcode)
--  My 100 days of code twitter Log [👻](https://twitter.com/ayushbante) 
-<br />
+Building scalable apps, AI-powered workflows, and developer tools while continuously learning new technologies 🚀
 
-### Languages and Tools:
+* 🌱 Currently exploring **AI Agents, Multi-Agent Systems, RAG, and Automation**
+* 👨‍💻 Working with **.NET, Angular, Flutter, Supabase, SQL Server & Node.js**
+* 🤖 Building AI-powered tools for **log analysis, root cause detection, and workflow automation**
+* 📱 Developing real-world apps using **Flutter + Supabase + Firebase**
+* 🎯 2026 Goals:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  * Build production-ready AI SaaS products
+  * Contribute more to Open Source
+  * Crack international remote opportunities 🌍
+* 🎮 Gamer by night | 💪 Fitness enthusiast by routine
+* ⚡ Fun fact: I debug faster after gym sessions 😆
 
-<br />
+---
 
-### Experience with Coding Stacks:
-- Laravel Jetstream (Laravel 8 + Intertia + vue )
-- .NET + Angular
-- Strapi + Nextjs
-- Strapi + Flutter
-- Laravel 8 + Nuxt
-- Unity3D
-### CSS Framework 
-- Tailwind Css
+## 🚀 Current Tech Stack
 
-[<img src="https://readme-spotify-status-one.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://www.spotify.com/in-en/account/overview/)
+### 👨‍💻 Languages
+
+### ⚡ Frontend
+
+### 📱 Mobile & Backend
+
+### 🧠 AI & Developer Tools
+
+---
+
+## 🛠️ Experience With
+
+* .NET + Angular Enterprise Applications
+* Flutter + Supabase Real-time Apps
+* Firebase Cloud Messaging (FCM)
+* AI Agent Workflows & Automation
+* Multi-Agent Systems
+* SQL Server Query Optimization
+* Strapi + Next.js
+* Laravel + Vue / Nuxt
+* Unity3D Game Development
+* GitHub Copilot & AI-assisted development
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Production Log Analyzer
+
+AI-powered log analyzer that identifies:
+
+* probable root causes
+* impacted services
+* possible code locations
+* debugging recommendations
+
+### 📱 MyGoldenGate
+
+Visitor management & society management app using:
+
+* Flutter
+* Supabase
+* Realtime notifications
+* FCM integration
+
+### 🧠 HTML Rendering Brain
+
+Smart text processing engine to clean and transform rich HTML content for DevExpress report rendering.
+
+### 🔍 SQL Optimization Toolkit
+
+Optimized complex SQL Server queries and stored procedures for enterprise-scale reporting systems.
+
+---
+
+## 📈 2026 Focus
+
+* AI Engineering
+* Agentic Workflows
+* Cloud Architecture
+* Open Source Contributions
+* Remote International Opportunities 🌍
+
+---
+
+## 🌐 Connect With Me
+
+---
+
+## 🎧 Currently Vibing To
+
+---
+
+---
+
+### ⚡ “Code. Learn. Build. Repeat.”
