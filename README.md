@@ -134,17 +134,16 @@ Optimized complex SQL Server queries and stored procedures for enterprise-scale 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushAB&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushAB&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushAB&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ayushAB&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushAB&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 ---
 
 ### ⚡ “Code. Learn. Build. Repeat.”
